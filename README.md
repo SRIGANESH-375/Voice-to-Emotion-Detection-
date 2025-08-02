@@ -1,6 +1,6 @@
 # 🎙️ Voice to Emotion Detection
 
-This project detects human emotions (like happy, sad, angry, etc.) from voice inputs using a deep learning model based on CNN + LSTM. It supports both recorded and uploaded audio files.
+This project detects human emotions (like happy, sad, angry, etc.) from voice inputs using a deep learning model based on CNN + LSTM. It supports uploaded audio files.
 
 ---
 
