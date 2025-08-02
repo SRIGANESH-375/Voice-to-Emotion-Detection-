@@ -19,12 +19,5 @@ This project detects human emotions (like happy, sad, angry, etc.) from voice in
 - **Backend:** Python, Flask
 - **Libraries:** TensorFlow/Keras, Librosa, Scikit-learn
 
----
 
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/sriganesh-375/voice-emotion-detection.git
-cd voice-emotion-detection
 
